@@ -1,0 +1,43 @@
+================================================================================
+                           DAY 1: PYTHON THEORY INTRODUCTION
+================================================================================
+
+What is Python?
+---------------
+Python is a high-level, interpreted, interactive, and object-oriented 
+programming language. Created by Guido van Rossum and first released in 1991, 
+Python's design philosophy emphasizes code readability, notably using 
+significant whitespace.
+
+Key Features of Python:
+-----------------------
+1. Interpreted: 
+   Python is processed at runtime by the interpreter. You do not need to compile
+   your program before executing it (similar to PERL and PHP).
+
+2. Interactive: 
+   You can actually sit at a Python prompt and interact with the interpreter 
+   directly to write your programs.
+
+3. Object-Oriented: 
+   Python supports Object-Oriented Programming (OOP) style or technique that 
+   encapsulates code within objects.
+
+4. Beginner-Friendly: 
+   Python is a great language for the beginner-level programmers and supports the
+   development of a wide range of applications from simple text processing to 
+   advanced web browsers and games.
+
+Core Programming Concepts:
+--------------------------
+- Variables & Data Types: Python is dynamically typed. Common built-in types
+  include Numbers (integers, floats), Strings, Lists, Tuples, Dictionaries, 
+  and Sets.
+- Control Flow: Conditional statements (if, elif, else) and loops (for, while)
+  control execution flow.
+- Functions: Defined using the `def` keyword, enabling reusable blocks of code.
+- Modules and Packages: Allow organizing code logically into files and directories.
+
+================================================================================
+                                 HAPPY LEARNING!
+================================================================================
