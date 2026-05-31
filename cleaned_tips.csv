@@ -2,7 +2,7 @@ total_bill,tip,sex,smoker,day,time,size,tip_percentage
 16.99,1.01,Female,No,Sun,Dinner,2,5.9446733372572105
 10.34,1.66,Male,No,Sun,Dinner,3,16.054158607350097
 21.01,3.5,Male,No,Sun,Dinner,3,16.658733936220845
-23.68,3.31,Male,No,Sun,Dinner,2,13.97804054054054
+23.68,3.31,Male,No,Sun,Dinner,2,13.97804054054054git commit --amend --no-edit
 24.59,3.61,Female,No,Sun,Dinner,4,14.680764538430255
 25.29,4.71,Male,No,Sun,Dinner,4,18.62396204033215
 8.77,2.0,Male,No,Sun,Dinner,2,22.80501710376283
